@@ -27,7 +27,7 @@ Details Grid Showing All Car Sales Information: Create a detailed grid that pres
 Goal: The project goal is to implement an intuitive and dynamic Car Sales Dashboard using Power BI, with a focus on extracting actionable insights from visualized key performance indicators (KPIs). This dashboard aims to provide a centralized platform for stakeholders to comprehensively analyse and interpret critical data related to car sales. By achieving this goal, the project seeks to enhance decision-making processes, enabling the team to make informed and strategic choices based on a real-time understanding of sales performance trends and patterns.
 
 Data Source:
-Kaggle Dataset Download Here
+Kaggle Dataset: https://www.kaggle.com/code/eugeniokukes/car-sales-eda-machine-learning
 Tools Used:
 Excel - Data Cleaning
 Power BI – Data Analysis & Visualization
